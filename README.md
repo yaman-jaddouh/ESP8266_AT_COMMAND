@@ -9,7 +9,9 @@
 
 **Note**: when you powered the module make sure that G0 pin not connected to anything .
 
-Please visit the [channel](https://t.me/ESP8266_AT) to see all update and upgrade Developed by Yaman jaddouh
+Please visit the [channel](https://t.me/ESP8266_AT) to see all update and upgrade 
+
+
 **Explanations**
 you can use this module without need to code it just see the commands and communicate with it .
 
